@@ -1,4 +1,4 @@
-# Contributon Rules – Awesome LLM Resources
+# Contribution Rules – Awesome LLM Resources
 
 Thank you for contributing to **Awesome LLM Resources**! 🎉  
 To keep the repository organized and maintain high-quality content, please follow these contribution rules.
