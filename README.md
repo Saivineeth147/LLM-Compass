@@ -24,7 +24,8 @@ A curated list of Large Language Model (LLM) repositories, papers, datasets, and
 
 ## Datasets
 - [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) – Instruction-following dataset for LLM fine-tuning.  
-- [P3: Public Pool of Prompts](https://github.com/google-research/promptsource) – Collection of prompts for multiple NLP tasks.  
+- [HelpSteer](https://huggingface.co/datasets/nvidia/HelpSteer) – A dataset by NVIDIA designed for aligning LLMs with helpful and harmless behavior through human feedback.
+- [Dolly 15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k) - Open instruction-following dataset by Databricks with 15,000 high-quality examples.
 - [RedPajama](https://github.com/togethercomputer/RedPajama-Data) – Open-source LLM training dataset.  
 
 ## Tutorials & Guides
