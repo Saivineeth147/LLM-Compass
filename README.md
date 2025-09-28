@@ -49,7 +49,7 @@ A curated list of Large Language Model (LLM) repositories, papers, datasets, and
 ---
 
 ## Contributing
-Contributions welcome! If you find a valuable LLM resource, feel free to open a PR.
+Contributions welcome 🎉 ! If you find a valuable LLM resource, feel free to open a PR.
 
 ## License
 [MIT License](LICENSE)
