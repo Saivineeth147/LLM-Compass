@@ -2,7 +2,7 @@
 ![logo](https://github.com/user-attachments/assets/71c84b05-1876-4c5b-8e66-f8c59915ada4)
 
 
-# Awesome LLM Resources
+# Awesome to LLM Compass
 
 A curated list of Large Language Model (LLM) repositories, tutorials, papers, datasets, tools, and communities for research and development.
 
