@@ -4,8 +4,7 @@
 
 # Welcome to LLM Compass
 
-A curated list of Large Language Model (LLM) repositories, tutorials, papers, datasets, tools, and communities for research and development.
-
+## The ultimate collection of resources for building, evaluating, and mastering Large Language Models.
 ---
 
 ## 📚 Libraries & Frameworks
