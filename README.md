@@ -78,6 +78,18 @@
 
 ---
 
+## 🏆 Top LLMs & Benchmarks (2025)
+
+- [GPT-5 (OpenAI)](https://www.whistlerbillboards.com/friday-feature/ranking-the-top-7-llms-in-2025/?utm_source=chatgpt.com) – Strengths: Exceptional reasoning, coding & multimodal | Benchmarks: MMLU 91.2%, GPQA 79.3%, SWE-Bench 54.6% | Notes: Best overall performance
+- [Claude 3.7 (Anthropic)](https://www.helicone.ai/blog/the-complete-llm-model-comparison-guide?utm_source=chatgpt.com) – Strengths: Strong reasoning, large context | Benchmarks: MMLU 90.5%, GPQA 78.2%, SWE-Bench 70.3% | Notes: Ideal for business applications
+- [Grok 4 (xAI)](https://bertomill.medium.com/llm-benchmarks-update-june-2025-7313dbe046a4?utm_source=chatgpt.com) – Strengths: Coding expert | Benchmarks: SWE-Bench Top scorer | Notes: Cost-efficient & open-source
+- [Gemini 2.5 Pro (Google DeepMind)](https://www.whistlerbillboards.com/friday-feature/ranking-the-top-7-llms-in-2025/?utm_source=chatgpt.com) – Strengths: Translation & multimodal | Benchmarks: Translation High accuracy | Notes: Fluent & context-aware translations
+- [Llama 4 (Meta)](https://en.wikipedia.org/wiki/Llama_%28language_model%29?utm_source=chatgpt.com) – Strengths: Cost-efficient, local deployment | Benchmarks: MMLU 85% | Notes: Strong performance locally
+- [Qwen 3 (Alibaba)](https://bertomill.medium.com/llm-benchmarks-update-june-2025-7313dbe046a4?utm_source=chatgpt.com) – Strengths: Coding & reasoning | Benchmarks: SWE-Bench High, AIME 2025 93.3% | Notes: Competitive performance across domains
+- [DeepSeek-V3.1](https://bertomill.medium.com/llm-benchmarks-update-june-2025-7313dbe046a4?utm_source=chatgpt.com) – Strengths: Coding expert | Benchmarks: SWE-Bench High | Notes: Strong coding performance
+
+---
+
 ## 🤝 Contributing
 Contributions welcome! If you find a valuable LLM resource or have an Open Source Project, open a PR.
 
