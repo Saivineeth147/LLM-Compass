@@ -80,13 +80,18 @@
 
 ## 🏆 Top LLMs & Benchmarks (2025)
 
-- [GPT-5 (OpenAI)](https://www.whistlerbillboards.com/friday-feature/ranking-the-top-7-llms-in-2025/?utm_source=chatgpt.com) – Strengths: Exceptional reasoning, coding & multimodal | Benchmarks: MMLU 91.2%, GPQA 79.3%, SWE-Bench 54.6% | Notes: Best overall performance
-- [Claude 3.7 (Anthropic)](https://www.helicone.ai/blog/the-complete-llm-model-comparison-guide?utm_source=chatgpt.com) – Strengths: Strong reasoning, large context | Benchmarks: MMLU 90.5%, GPQA 78.2%, SWE-Bench 70.3% | Notes: Ideal for business applications
-- [Grok 4 (xAI)](https://bertomill.medium.com/llm-benchmarks-update-june-2025-7313dbe046a4?utm_source=chatgpt.com) – Strengths: Coding expert | Benchmarks: SWE-Bench Top scorer | Notes: Cost-efficient & open-source
-- [Gemini 2.5 Pro (Google DeepMind)](https://www.whistlerbillboards.com/friday-feature/ranking-the-top-7-llms-in-2025/?utm_source=chatgpt.com) – Strengths: Translation & multimodal | Benchmarks: Translation High accuracy | Notes: Fluent & context-aware translations
-- [Llama 4 (Meta)](https://en.wikipedia.org/wiki/Llama_%28language_model%29?utm_source=chatgpt.com) – Strengths: Cost-efficient, local deployment | Benchmarks: MMLU 85% | Notes: Strong performance locally
-- [Qwen 3 (Alibaba)](https://bertomill.medium.com/llm-benchmarks-update-june-2025-7313dbe046a4?utm_source=chatgpt.com) – Strengths: Coding & reasoning | Benchmarks: SWE-Bench High, AIME 2025 93.3% | Notes: Competitive performance across domains
-- [DeepSeek-V3.1](https://bertomill.medium.com/llm-benchmarks-update-june-2025-7313dbe046a4?utm_source=chatgpt.com) – Strengths: Coding expert | Benchmarks: SWE-Bench High | Notes: Strong coding performance
+- [Claude Opus 4 (Anthropic)](https://www.anthropic.com/news/claude-4) – **Strengths**: Advanced reasoning, coding, and multimodal capabilities | **Benchmarks**: GPQA Science 79.6%, LiveCodeBench 72%, USAMO 21.7%, HMMT 58.3%, AIME 75.5%, ARC-AGI-2 8.6% | **Notes**: Anthropic's most capable model yet, setting new standards in reasoning, coding, and complex math.
+- [Claude Sonnet 4 (Anthropic)](https://www.anthropic.com/news/claude-4) – **Strengths**: Efficient performance for everyday tasks | **Benchmarks**: GPQA Science 79.6%, LiveCodeBench 72%, USAMO 21.7%, HMMT 58.3%, AIME 75.5%, ARC-AGI-2 8.6% | **Notes**: Smart, efficient model for everyday use.
+- [DeepSeek-V3.1](https://api-docs.deepseek.com/news/news250821?utm_source=chatgpt.com) – **Strengths**: Coding and reasoning-focused tasks | **Benchmarks**: MMLU-Redux 91.8%, SWE-Bench 66% | **Notes**: Optimized for hybrid thinking and agentic workflows, strong in coding challenges.
+- [Grok 4 (xAI)](https://x.ai/news/grok-4) – **Strengths**: General reasoning and structured output | **Benchmarks**: GPQA Science 86.4%, LiveCodeBench 79%, USAMO 37.5%, HMMT 90%, AIME 91.7%, ARC-AGI-2 15.9% | **Notes**: Balanced model for math, reasoning, and coding.
+- [Grok 4 Heavy w/ Python (xAI)](https://x.ai/news/grok-4) – **Strengths**: Top coding, reasoning, and math performance | **Benchmarks**: GPQA Science 88.4%, LiveCodeBench 79.4%, USAMO 61.9%, HMMT 96.7%, AIME 100%, ARC-AGI-2 15.9% | **Notes**: Best-in-class Grok 4 variant optimized for Python-heavy tasks.
+- [Grok 4 w/ Python (xAI)](https://x.ai/news/grok-4) – **Strengths**: Strong coding and reasoning with Python | **Benchmarks**: GPQA Science 87.5%, LiveCodeBench 79.3%, USAMO 37.5%, HMMT 93.9%, AIME 98.8%, ARC-AGI-2 8.6% | **Notes**: Efficient for programming-intensive tasks.
+- [GPT-5 (OpenAI)](https://platform.openai.com/docs/guides/latest-model?utm_source=chatgpt.com) – **Strengths**: Exceptional reasoning, coding, and multimodal capabilities | **Benchmarks**: MMLU 91.2%, GPQA 79.3%, SWE-Bench 54.6% | **Notes**: OpenAI's latest flagship model with a large context window and advanced agentic capabilities.
+- [Gemini 2.5 Pro (Google DeepMind)](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro?utm_source=chatgpt.com) – **Strengths**: Multimodal reasoning, translation, and math | **Benchmarks**: GPQA Science 83.3%, LiveCodeBench 74.2%, USAMO 34.5%, HMMT 82.5%, AIME 88.9%, ARC-AGI-2 4.9% | **Notes**: Excels at complex interactive and reasoning tasks.
+- [Llama 4 (Meta)](https://www.llama.com/models/llama-4/) – **Strengths**: Cost-efficient, local deployment, flexible fine-tuning | **Benchmarks**: MMLU 85%, GPQA 80%, SWE-Bench 69.4% | **Notes**: Open-source LLM ideal for research, local inference, and instruction-following.
+- [o3 (Open LLM)](https://docs.o3.ai/) – **Strengths**: Reasoning & math tasks | **Benchmarks**: GPQA Science 79.6%, LiveCodeBench 72%, USAMO 21.7%, HMMT 58.3%, AIME 88.9%, ARC-AGI-2 6.5% | **Notes**: Competitive math and reasoning model.
+- [Qwen 3 (Alibaba)](https://qwen.readthedocs.io/en/latest/?utm_source=chatgpt.com) – **Strengths**: Coding, reasoning, and multilingual support | **Benchmarks**: SWE-Bench High, AIME 2025 93.3% | **Notes**: Designed for both language and multimodal tasks with strong domain versatility.
+
 
 ---
 
